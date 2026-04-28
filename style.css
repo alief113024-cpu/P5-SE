@@ -66,7 +66,6 @@ body {
   color: #fff;
 }
 
-<<<<<<< HEAD
 .hero-stat {
   border-left: 3px solid var(--brand-maroon);
   padding-left: 1rem;
@@ -84,8 +83,6 @@ body {
   letter-spacing: 0.06em;
 }
 
-=======
->>>>>>> 7ed3c9146b835f866393a3459429d5548e31e04d
 /* ── Services ───────────────────────────────────────── */
 #services {
   background: #fcf7f9;
@@ -126,15 +123,10 @@ body {
   align-items: center;
   justify-content: center;
 }
-<<<<<<< HEAD
-=======
-
->>>>>>> 7ed3c9146b835f866393a3459429d5548e31e04d
 .about-check {
   color: var(--brand-maroon);
 }
 
-<<<<<<< HEAD
 /* ── Team ───────────────────────────────────────────── */
 #team {
   background: #fcf7f9;
@@ -190,41 +182,23 @@ body {
   color: var(--brand-maroon);
 }
 
-=======
->>>>>>> 7ed3c9146b835f866393a3459429d5548e31e04d
 /* ── Footer ─────────────────────────────────────────── */
 footer {
   background: var(--brand-dark);
   color: #64748b;
 }
-<<<<<<< HEAD
-=======
-
->>>>>>> 7ed3c9146b835f866393a3459429d5548e31e04d
 footer a {
   color: #64748b;
   text-decoration: none;
 }
-<<<<<<< HEAD
 footer a:hover {
   color: var(--brand-maroon-light);
 }
-=======
-
-footer a:hover {
-  color: var(--brand-maroon-light);
-}
-
->>>>>>> 7ed3c9146b835f866393a3459429d5548e31e04d
 footer .footer-brand {
   color: #f1f5f9;
   font-weight: 700;
   font-size: 1.2rem;
 }
-<<<<<<< HEAD
-=======
-
->>>>>>> 7ed3c9146b835f866393a3459429d5548e31e04d
 footer .footer-brand span {
   color: var(--brand-maroon-light);
 }
